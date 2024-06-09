@@ -1,6 +1,8 @@
+<h1 align="center">
+  Apirette 
+</h1>
 
 <p align="center">
-  <h1>Apirette</h1>
   Node.js meets FastAPI
 </p>
 
